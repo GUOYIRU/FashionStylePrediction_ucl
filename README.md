@@ -15,6 +15,9 @@ asyncio
 
 You will also need to have software installed to run and execute a Jupyter Notebook
 
+To see the detailed package installations, please use requirementst.txt and run code below in terminal:
+-> pip install -r requirements.txt
+
 If you do not have Python3 installed yet, it is highly recommended that you install the Anaconda distribution of Python3, which already has the above packages and more included.
 
 ## Code
